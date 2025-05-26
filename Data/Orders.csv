@@ -1,0 +1,9 @@
+﻿OrderID,OrderDate,CustomerID,StoreID,TotalAmount,PaymentMethod
+1,2024-02-15,1,1,1149.98,Credit Card
+2,2024-02-17,2,2,899.99,PayPal
+3,2024-02-18,3,1,129.99,Cash
+4,2024-02-19,4,3,349.99,Debit Card
+5,2024-02-20,5,2,59.99,Credit Card
+6,2024-02-21,6,4,249.99,Cash
+7,2024-02-22,7,5,799.99,Debit Card
+8,2024-02-23,8,3,999.99,Credit Card
